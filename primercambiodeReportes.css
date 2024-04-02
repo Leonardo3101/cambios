@@ -1,0 +1,368 @@
+element.style {
+}
+html.sidebar-light:not(.dark) .page-header {
+    border-left-color: #e6e6e6;
+    background: #fff;
+    box-shadow: 1px 3px 0 1px #e2e3e6;
+}
+@media only screen and (min-width: 768px)
+html.fixed .page-header {
+    left: 300px;
+    margin: 0;
+    position: fixed;
+    right: 0;
+    top: 60px;
+    background-color: #fff;
+}
+.page-header {
+    box-shadow: none !important;
+}
+.page-header {
+    z-index: 1001;
+}
+.page-header {
+    /* background: #171717; */
+    border-bottom: none;
+    box-shadow: 1px 3px 0 1px #cccccc;
+    height: 50px;
+    margin: -40px -40px 12px -40px;
+    padding: 0;
+}
+.pr-0, .px-0 {
+    padding-right: 0 !important;
+}
+.pr-0, .px-0 {
+    padding-right: 0 !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+* {
+    outline: none;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+html, body {
+    background: #f7f8fa;
+    font-family: "Roboto", sans-serif;
+    color: #0061ff;
+}
+body {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    line-height: 22px;
+    margin: 0;
+    font-size: 13px;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #386ca1;
+    text-align: left;
+    background-color: #fff;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    color: #0197e2;
+    font-weight: 300;
+    font-size: 13px;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0079f3;
+    text-align: left;
+    background-color: #fff;
+}
+<style>
+:root {
+    --ck-table-selected-cell-background: rgb(19 82 137);
+}
+<style>
+:root {
+    --ck-insert-table-dropdown-padding: 10px;
+    --ck-insert-table-dropdown-box-height: 11px;
+    --ck-insert-table-dropdown-box-width: 12px;
+    --ck-insert-table-dropdown-box-margin: 1px;
+}
+<style>
+:root {
+    --ck-color-split-button-hover-background: #ebebeb;
+    --ck-color-split-button-hover-border: #ff0000;
+}
+<style>
+:root {
+    --ck-color-table-focused-cell-background: rgba(158, 207, 250, 0.3);
+}
+<style>
+:root {
+    --ck-media-embed-placeholder-icon-size: 3em;
+    --ck-color-media-embed-placeholder-url-text: #757575;
+    --ck-color-media-embed-placeholder-url-text-hover: #cf0000;
+}
+<style>
+:root {
+    --ck-image-style-spacing: 1.5em;
+}
+<style>
+:root {
+    --ck-color-upload-placeholder-loader: #b3b3b3;
+    --ck-upload-placeholder-loader-size: 32px;
+}
+<style>
+:root {
+    --ck-color-image-upload-icon: #fff;
+    --ck-color-image-upload-icon-background: #008a00;
+    --ck-image-upload-icon-size: 20px;
+    --ck-image-upload-icon-width: 2px;
+}
+<style>
+:root {
+    --ck-balloon-fake-panel-offset-horizontal: 6px;
+    --ck-balloon-fake-panel-offset-vertical: 6px;
+}
+<style>
+:root {
+    --ck-input-text-width: 18em;
+}
+<style>
+:root {
+    --ck-widget-outline-thickness: 3px;
+    --ck-widget-handler-icon-size: 16px;
+    --ck-widget-handler-animation-duration: 200ms;
+    --ck-widget-handler-animation-curve: ease;
+    --ck-color-widget-blurred-border: #dedede;
+    --ck-color-widget-hover-border: #eca900;
+    --ck-color-widget-editable-focus-background: #ff0c0c;
+    --ck-color-widget-drag-handler-icon-color: #d84545;
+}
+<style>
+:root {
+    --ck-color-resizer: hsl(208deg 100% 42%);
+    --ck-resizer-size: 10px;
+    --ck-resizer-border-width: 1px;
+    --ck-resizer-border-radius: 2px;
+    --ck-resizer-offset: calc(var(--ck-resizer-size) / -2 - 2px);
+    --ck-resizer-tooltip-offset: 10px;
+    --ck-color-resizer-tooltip-background: #262626;
+    --ck-color-resizer-tooltip-text: #f2f2f2;
+}
+<style>
+:root {
+    --ck-widget-type-around-button-size: 20px;
+    --ck-color-widget-type-around-button-active: var(--ck-color-focus-border);
+    --ck-color-widget-type-around-button-hover: var(--ck-color-widget-hover-border);
+    --ck-color-widget-type-around-button-blurred-editable: var(--ck-color-widget-blurred-border);
+    --ck-color-widget-type-around-button-radar-start-alpha: 0;
+    --ck-color-widget-type-around-button-radar-end-alpha: .3;
+    --ck-color-widget-type-around-button-icon: var(--ck-color-base-background);
+}
+<style>
+:root {
+    --ck-balloon-arrow-offset: 2px;
+    --ck-balloon-arrow-height: 10px;
+    --ck-balloon-arrow-half-width: 8px;
+}
+<style>
+:root {
+    --ck-balloon-panel-arrow-z-index: calc(var(--ck-z-default) - 3);
+}
+<style>
+:root {
+    --ck-switch-button-toggle-width: 2.6153846154em;
+    --ck-switch-button-toggle-inner-size: 1.0769230769em;
+    --ck-switch-button-toggle-spacing: 1px;
+    --ck-switch-button-translation: calc(var(--ck-switch-button-toggle-width) - var(--ck-switch-button-toggle-inner-size) - 2* var(--ck-switch-button-toggle-spacing));
+}
+<style>
+:root {
+    --ck-tooltip-arrow-size: 5px;
+}
+<style>
+:root {
+    --ck-icon-size: calc(var(--ck-line-height-base)* var(--ck-font-size-normal));
+}
+<style>
+:root {
+    --ck-dropdown-arrow-size: calc(0.5* var(--ck-icon-size));
+}
+<style>
+:root {
+    --ck-color-editable-blur-selection: #d9d9d9;
+}
+<style>
+:root {
+    --ck-border-radius: 2px;
+    --ck-inner-shadow: 2px 2px 3px var(--ck-color-shadow-inner) inset;
+    --ck-drop-shadow: 0 1px 2px 1px var(--ck-color-shadow-drop);
+    --ck-drop-shadow-active: 0 3px 6px 1px var(--ck-color-shadow-drop-active);
+    --ck-spacing-unit: 0.6em;
+    --ck-spacing-large: calc(var(--ck-spacing-unit)* 1.5);
+    --ck-spacing-standard: var(--ck-spacing-unit);
+    --ck-spacing-medium: calc(var(--ck-spacing-unit)* 0.8);
+    --ck-spacing-small: calc(var(--ck-spacing-unit)* 0.5);
+    --ck-spacing-tiny: calc(var(--ck-spacing-unit)* 0.3);
+    --ck-spacing-extra-tiny: calc(var(--ck-spacing-unit)* 0.16);
+}
+<style>
+:root {
+    --ck-z-default: 1;
+    --ck-z-modal: calc(var(--ck-z-default) + 999);
+    --ck-color-base-foreground: #fafafa;
+    --ck-color-base-background: #fff;
+    --ck-color-base-border: #c4c4c4;
+    --ck-color-base-action: #61b045;
+    --ck-color-base-focus: #6cb5f9;
+    --ck-color-base-text: #333;
+    --ck-color-base-active: #198cf0;
+    --ck-color-base-active-focus: #0e7fe1;
+    --ck-color-base-error: #db3700;
+    --ck-color-focus-border-coordinates: 208, 79%, 51%;
+    --ck-color-focus-border: hsl(var(--ck-color-focus-border-coordinates));
+    --ck-color-focus-outer-shadow: #bcdefb;
+    --ck-color-focus-disabled-shadow: rgba(119, 186, 248, 0.3);
+    --ck-color-focus-error-shadow: rgba(255, 64, 31, 0.3);
+    --ck-color-text: var(--ck-color-base-text);
+    --ck-color-shadow-drop: rgba(0, 0, 0, 0.15);
+    --ck-color-shadow-drop-active: rgba(0, 0, 0, 0.2);
+    --ck-color-shadow-inner: rgba(0, 0, 0, 0.1);
+    --ck-color-button-default-background: transparent;
+    --ck-color-button-default-hover-background: #e6e6e6;
+    --ck-color-button-default-active-background: #d9d9d9;
+    --ck-color-button-default-active-shadow: #bfbfbf;
+    --ck-color-button-default-disabled-background: transparent;
+    --ck-color-button-on-background: #dedede;
+    --ck-color-button-on-hover-background: #c4c4c4;
+    --ck-color-button-on-active-background: #bababa;
+    --ck-color-button-on-active-shadow: #a1a1a1;
+    --ck-color-button-on-disabled-background: #dedede;
+    --ck-color-button-action-background: var(--ck-color-base-action);
+    --ck-color-button-action-hover-background: #579e3d;
+    --ck-color-button-action-active-background: #53973b;
+    --ck-color-button-action-active-shadow: #498433;
+    --ck-color-button-action-disabled-background: #7ec365;
+    --ck-color-button-action-text: var(--ck-color-base-background);
+    --ck-color-button-save: #008a00;
+    --ck-color-button-cancel: #db3700;
+    --ck-color-switch-button-off-background: #b0b0b0;
+    --ck-color-switch-button-off-hover-background: #a3a3a3;
+    --ck-color-switch-button-on-background: var(--ck-color-button-action-background);
+    --ck-color-switch-button-on-hover-background: #579e3d;
+    --ck-color-switch-button-inner-background: var(--ck-color-base-background);
+    --ck-color-switch-button-inner-shadow: rgba(0, 0, 0, 0.1);
+    --ck-color-dropdown-panel-background: var(--ck-color-base-background);
+    --ck-color-dropdown-panel-border: var(--ck-color-base-border);
+    --ck-color-input-background: var(--ck-color-base-background);
+    --ck-color-input-border: #c7c7c7;
+    --ck-color-input-error-border: var(--ck-color-base-error);
+    --ck-color-input-text: var(--ck-color-base-text);
+Show All Properties (34 more)
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+html {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: #00000000;
+}
+html {
+    position: relative;
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
